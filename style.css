@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(233, 230, 64);
+}
+
+h1, h3{
+    text-align: center;
+    color: rgb(14, 48, 99);
+}
+
+h2{
+    text-align: center;
+    color: rgb(85, 14, 8);
+}
+
+table{
+    border-collapse: collapse;
+}
+
+th{
+    background-color: rgb(85, 14, 8);
+    color: white;
+}
+
+tr{
+    background-color: white;
+    color: black;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
